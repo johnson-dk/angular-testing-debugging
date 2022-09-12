@@ -11,3 +11,8 @@ body {
   color: var(--color);
   font-family: var(--font-family);
 }
+
+.highlight-text {
+  color: black;
+  background-color: var(--color);
+}
